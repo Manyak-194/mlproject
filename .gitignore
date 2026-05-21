@@ -1,6 +1,5 @@
-venv/
+logs/
 __pycache__/
 *.pyc
-.env
-.ipynb_checkpoints/
-.artifacts
+artifacts/
+venv/
